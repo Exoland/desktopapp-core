@@ -1,7 +1,8 @@
 # Exoland Integrations Reference Implementation (Python)
 
-# The reference implementation for designing the payments experience with the Exoland Banking API.
-Requirements
+The reference implementation for designing the payments experience with the Exoland Banking API.
+
+# Requirements
 
 - Python 3
 - pip3
@@ -87,7 +88,8 @@ Date-time,Description,Amount,Currency
 08/14/2021 13:03:15,Top-Up by *200.0,USD
 08/30/2021 16:19:19,Reward user for the invite,120.0,USD
 19/12/2021 23:51:02,Bel Air Reservation,-200.0,USD
-
+```
+  
 ## TODO
 
 - [ ] Document exolandbot.py
