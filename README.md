@@ -50,7 +50,7 @@ EUR SAVINGS (My vault),10.30,EUR
 If you don't have a Exoland token yet, the tool will allow you to obtain one.
 
 ⚠️ **If you don't receive a SMS when trying to get a token, you need to logout from the app on your Smartphone.** 
-⚠️ **You may also receive an authentication email instead of a SMS. Take note of the link on the Authenticate button. It should look like https://exoland.xyz/app/email-authenticate/<CODE>?scope=login. You can enter this code in the CLI.**
+⚠️ **You may also receive an authentication email instead of a SMS. Take note of the link on the `Authenticate` button. It should look like `https://exoland.xyz/app/email-authenticate/<CODE>?scope=login`. You can enter this code in the CLI.**
 
 ## Pulling transactions
 
